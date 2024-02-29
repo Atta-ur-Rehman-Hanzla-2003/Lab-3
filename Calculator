@@ -5,4 +5,6 @@ int main()
   cout<<"Atta ur Rehman Hanzla"<<endl<<"23SET018";
 cout<<"addition of two number"<<a+b<<endl; 
 cout<<"subtraction of two number"<<a-b<<endl;
+cout<<"mutlipication of two number<<a*b<<endl;
+cout<<"division of two number"<<a/b<<endl;
 }
