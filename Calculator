@@ -3,4 +3,5 @@ using namespace std;
 int main()
 {
   cout<<"Atta ur Rehman Hanzla"<<endl<<"23SET018";
+cout<<"addition of two number"<<a+b<<endl; 
 }
